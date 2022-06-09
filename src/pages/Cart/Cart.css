@@ -1,0 +1,11 @@
+.cart-wrapper {
+  display: flex;
+  justify-content: center;
+  margin: auto;
+}
+
+.cart-container {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 1rem;
+}

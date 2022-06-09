@@ -1,0 +1,10 @@
+.cart-summary {
+  border: 1px solid grey;
+  border-radius: 0.5rem;
+  width: max-content;
+  height: max-content;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  padding: 0.5rem;
+}
